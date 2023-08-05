@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @faheemh786
 - 👀 I’m interested in python
-- 🌱 I’m currently learning python
+- 🌱 python developer
 
 
 <!---
